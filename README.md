@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning java,kotlin,blockbensh<br>🎯 Goals: make a cool RPG OPEN WORLD Minecraft server</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning java,kotlin,python<br>🎯 Goals: make a cool RPG OPEN WORLD Minecraft server</p>
 
 ###
 
